@@ -37,12 +37,12 @@ const Testimonial = () => {
   return (
     <div className="t-wrapper" id="testimonial">
         <Helmet>
-                <title>Gulfam saifi</title>
+                <title>Gulfam saifi || Gulfaam saifi</title>
                 <link rel="icon" href={"https://gulfaam.com"}/>
-                <meta name="gulfam saifi, gulfaam" content={"gulfam saifi, gulfaam"}/>
-                <meta name="gulfam saifi, gulfaam" content={"gulfamsaifi"}/>
-                <meta property="og:gulfam saifi, gulfaam" content={"og:gulfam saifi, gulfaam"}/>
-                <meta property="og:gulfam saifi, gulfaam" content={"og:gulfam saifi, gulfaam"}/>
+                <meta name="gulfam saifi, gulfaam saifi" content={"gulfam saifi, gulfaam saifi"}/>
+                <meta name="gulfam saifi, gulfaam saifi" content={"gulfamsaifi"}/>
+                <meta property="og:gulfam saifi, gulfaam saifi" content={"og:gulfam saifi, gulfaam saifi"}/>
+                <meta property="og:gulfam saifi, gulfaam saifi" content={"og:gulfam saifi, gulfaam saifi"}/>
              </Helmet>
       <div className="t-heading">
         <span>Clients always get </span>
