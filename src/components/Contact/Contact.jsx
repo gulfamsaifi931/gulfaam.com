@@ -15,10 +15,10 @@ const Contact = () => {
     emailjs
     
       .sendForm(
-        "service_hzbkdjn",
-        "template_cpxbres",
+        "service_cdrhf7m",
+        "template_dgbqysx",
         form.current,
-        "iurBOwE69-8vJPcrw"
+        "uaA9Z6ppN3tVoh_a0"
       )
       .then(
         (result) => {
@@ -35,11 +35,11 @@ const Contact = () => {
     <div className="contact-form" id="contact">
         <Helmet>
                 <title>Gulfam saifi</title>
-                <link rel="icon" href={"https://gulfam.in"}/>
-                <meta name="gulfam saifi" content={"gulfam saifi"}/>
-                <meta name="gulfam saifi" content={"gulfamsaifi"}/>
-                <meta property="og:gulfam saifi" content={"og:gulfam saifi"}/>
-                <meta property="og:gulfam saifi" content={"og:gulfam saifi"}/>
+                <link rel="icon" href={"https://gulfaam.com"}/>
+                <meta name="gulfam saifi, gulfaam" content={"gulfam saifi, gulfaam"}/>
+                <meta name="gulfam saifi, gulfaam" content={"gulfamsaifi"}/>
+                <meta property="og:gulfam saifi, gulfaam" content={"og:gulfam saifi, gulfaam"}/>
+                <meta property="og:gulfam saifi, gulfaam" content={"og:gulfam saifi, gulfaam"}/>
              </Helmet>
       {/* left side copy and paste from work section */}
       <div className="w-left">

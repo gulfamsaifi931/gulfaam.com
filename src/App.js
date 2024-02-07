@@ -26,11 +26,11 @@ const Home = () => {
         >
              <Helmet>
                 <title>Gulfam saifi</title>
-                <link rel="icon" href={"https://gulfam.in"}/>
-                <meta name="gulfam saifi" content={"gulfam saifi"}/>
-                <meta name="gulfam saifi" content={"gulfamsaifi"}/>
-                <meta property="og:gulfam saifi" content={"og:gulfam saifi"}/>
-                <meta property="og:gulfam saifi" content={"og:gulfam saifi"}/>
+                <link rel="icon" href={"https://gulfaam.com"}/>
+                <meta name="gulfam saifi" content={"gulfam saifi, gulfaam"}/>
+                <meta name="gulfam saifi, gulfaam" content={"gulfamsaifi"}/>
+                <meta property="og:gulfam saifi, gulfaam" content={"og:gulfam saifi, gulfaam"}/>
+                <meta property="og:gulfam saifi, gulfaam" content={"og:gulfam saifi, gulfaam"}/>
              </Helmet>
 
           <Navbar />
