@@ -31,7 +31,6 @@ const Contact = () => {
       );
       e.target.reset();
   };
-
   return (
     <div className="contact-form" id="contact">
         <Helmet>

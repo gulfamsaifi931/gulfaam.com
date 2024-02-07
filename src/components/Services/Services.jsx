@@ -29,7 +29,7 @@ const Services = () => {
         <spane>
           Custom Website Development, Website Maintenance, E-commerce Website Development
           <br />
-          We provied corporate website, Ecommerce websites, Portfolio website.
+          We provied corporate website, Ecommerce websites, Portfolio website.Thanx from Gulfam saifi || Gulfaam.
         </spane>
         <a href={Resume} download>
           <button className="button s-button">Download CV</button>
