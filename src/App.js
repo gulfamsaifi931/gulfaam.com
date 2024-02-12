@@ -25,12 +25,14 @@ const Home = () => {
           }}
         >
              <Helmet>
-                <title>Gulfam saifi || Gulfaam saifi</title>
+                <title>Gulfam saifi || Gulfaam saifi, gscoder</title>
                 <link rel="icon" href={"https://gulfaam.com"}/>
                 <meta name="gulfam saifi, gulfaam saifi" content={"gulfam saifi, gulfaam saifi"}/>
                 <meta name="gulfam saifi, gulfaam" content={"gulfamsaifi"}/>
                 <meta property="og:gulfam saifi, gulfaam saifi" content={"og:gulfam saifi, gulfaam saifi"}/>
                 <meta property="og:gulfam saifi, gulfaam saifi" content={"og:gulfam saifi, gulfaam saifi"}/>
+                <meta name="google-site-verification" content="5t1WKw5RPVEzq9vlsRQXDnx5LDj45JpHZzLeIw2eCuM" />
+                <meta property="og:image" content="https://gulfaam.com/0202(1)-Cover.jpg" />
              </Helmet>
 
           <Navbar />
