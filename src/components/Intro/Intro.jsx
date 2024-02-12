@@ -34,7 +34,7 @@ const Intro = () => {
           <span>Gulfaam</span>
           <span>
             Backend and Frontend Developer with React.js and Next.js high level of experience in web designing
-            and development, producting the Quality work.
+            and development, producting the Quality work. Thanks from Gulfam saifi, gscoder, gulfaam.
           </span>
         </div>
         <Link to="contact" smooth={true} spy={true}>
